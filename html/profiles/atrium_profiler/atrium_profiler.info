@@ -68,6 +68,8 @@ dependencies[] = "spaces_og"
 ; Ucreate
 dependencies[] = "ucreate"
 dependencies[] = "ucreate_og"
+; jQuery Update
+dependencies[] = "jquery_update"
 ; Strongarm
 dependencies[] = "strongarm"
 ; Core features

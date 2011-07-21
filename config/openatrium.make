@@ -12,7 +12,7 @@ libraries[translations] = NULL
 ; Modules =====================================================================
 
 projects[bueditor][subdir] = "contrib"
-projects[bueditor][version] = "2.2"
+projects[bueditor][version] = "2.4"
 
 projects[markdowneditor][subdir] = "contrib"
 projects[markdowneditor][version] = "1.1"

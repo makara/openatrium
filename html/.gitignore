@@ -22,4 +22,12 @@
 /test*
 /potx*
 
+*.orig
+*.mo
+
+/*.txt
+!/COPYRIGHT.txt
+!/LICENSE.txt
+!/robots.txt
+
 drushrc.php
