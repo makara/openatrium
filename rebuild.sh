@@ -1,6 +1,6 @@
 #!/bin/bash
 
-drush make --no-core --contrib-destination=temp_all config/openatrium.make -y;
+drush make --no-core --contrib-destination=temp_all config/rebuild.make -y;
 
 if [ ! -d html/sites/all ]; then
 	mkdir -p html/sites/all;
